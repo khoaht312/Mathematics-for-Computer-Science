@@ -1,4 +1,4 @@
-# CS115-Mathematics-for-Computer-Science
+# CS115: Mathematics for Computer Science
 
 # Week 1: Probability & Statistics
 - Naive Bayes

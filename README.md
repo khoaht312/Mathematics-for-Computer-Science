@@ -7,7 +7,7 @@
 - [x] Laplace Smoothing
 - [x] Case study: Naive Bayes spam filtering
 # Week 2: Linear algebra
-- [ ] 
+- [ ] ...
 # Week 3: Calculus
-- [ ] 
+- [ ] ...
 

@@ -7,6 +7,7 @@
 - [x] Bernoulli Naive Bayes
 - [x] Gaussian Naive Bayes
 - [x] Case study: Naive Bayes spam filtering (S|N)
+- [x] Linear regression
 # Chapter 2: Calculus
 - [x] Backpropagation
 

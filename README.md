@@ -7,7 +7,10 @@
 - [x] Bernoulli Naive Bayes
 - [x] Gaussian Naive Bayes
 - [x] **Case study: Naive Bayes spam filtering (S|N)**
-- [x] **Linear regression**
-# Chapter 2: Calculus
-- [x] Backpropagation
+
+# Chapter 2: Linear Regression
+
+# Chapter 3: Logistic Regression
+
+# Chapter 4: Gradient Descent
 

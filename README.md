@@ -1,16 +1,18 @@
 # CS115: Mathematics for Computer Science
 
-# Chapter 1: Probability & Statistics
-- [x] Naive Bayes
-- [x] Naive Bayes Model
-- [x] Multinominal Naive Bayes
-- [x] Bernoulli Naive Bayes
-- [x] Gaussian Naive Bayes
-- [x] **Case study: Naive Bayes spam filtering (S|N)**
+# Chapter 1: Naive Bayes classifier
 
 # Chapter 2: Linear Regression
 
 # Chapter 3: Logistic Regression
 
 # Chapter 4: Gradient Descent
+
+# Chapter 5: Convolutional neural network
+
+# Chapter 6: Suport Vector Machine
+
+# Chapter 7: K-nearest Neighbors Algorithm
+
+# Chapter 8: Principal Component Analysis 
 

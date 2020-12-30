@@ -10,7 +10,7 @@
 
 - Introduction: Gradient Descent, CNN, KNN, PCA, K-means Clustering
 
-# Capstone Project: Support Vector Machine
+# Capstone Project:
 - Src: https://www.kaggle.com/farhanmd29/svm-model-for-social-network-ads
 - Nội dung vấn đáp: Thuật toán SVM, Logistic Regression, Naive Bayes
 - Slide:

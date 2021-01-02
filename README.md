@@ -12,6 +12,7 @@
 
 # Capstone Project:
 - Src: https://www.kaggle.com/farhanmd29/svm-model-for-social-network-ads
+- Slides: https://docs.google.com/presentation/d/1TFXARckBDZOM34QdD2t4AXqF2XdMqiZG7vJtwEnn8kk/edit#slide=id.gb3173db298_1_83
 - Nội dung vấn đáp: Thuật toán SVM, Logistic Regression, Naive Bayes
 - Slide:
 - [ ] Tên đề tài

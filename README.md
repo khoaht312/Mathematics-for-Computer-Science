@@ -21,12 +21,12 @@
 - [ ] Phương pháp: SVM, Logistic regression, Naive Bayes, Decision Tree
 
 Table 1.
-| |SVM|Logistic Regression|Naive Bayes|Decision Tree|
+| |SVM non-linear|Logistic Regression|Naive Bayes|Decision Tree|
 |---|---|--|--|---|
-|Accuracy| | | | |
-|Precision| | | | |
-|Recall| | | | |
-|F1-Score| | | | |
+|Accuracy|0.93 |89 |90 |91 |
+|Precision|88 | 89| 89| 83|
+|Recall|91|75 | 78| 91|
+|F1-Score| 89| 81|83 |87 |
 
 Table 2. Confusion Matrix
 

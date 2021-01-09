@@ -23,10 +23,10 @@
 Table 1.
 | |SVM non-linear|Logistic Regression|Naive Bayes|Decision Tree|
 |---|---|--|--|---|
-|Accuracy|0.93 |89 |90 |91 |
-|Precision|88 | 89| 89| 83|
-|Recall|91|75 | 78| 91|
-|F1-Score| 89| 81|83 |87 |
+|Accuracy |0.93 |0.89 |0.90 |0.91 |
+|Precision|0.88 | 0.89| 0.89| 0.83|
+|Recall   |0.91 |0.75 | 0.78| 0.91|
+|F1-Score | 0.89| 0.81|0.83 |0.87 |
 
 Table 2. Confusion Matrix
 

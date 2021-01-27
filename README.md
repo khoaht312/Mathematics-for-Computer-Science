@@ -20,15 +20,5 @@
 - [ ] Bộ dữ liệu: Social network Ads
 - [ ] Phương pháp: SVM, Logistic regression, Naive Bayes, Decision Tree
 
-Table 1.
-| |SVM non-linear|Logistic Regression|Naive Bayes|Decision Tree|
-|---|---|--|--|---|
-|Accuracy |0.93 |0.89 |0.90 |0.91 |
-|Precision|0.88 | 0.89| 0.89| 0.83|
-|Recall   |0.91 |0.75 | 0.78| 0.91|
-|F1-Score | 0.89| 0.81|0.83 |0.87 |
 
-Table 2. Confusion Matrix
-
-- [ ] Kết luận
 
